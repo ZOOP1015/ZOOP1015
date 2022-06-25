@@ -25,6 +25,13 @@ I'm a 17 year old self-taught engineer living In Iceland, I was born on 8th of J
 - Learn OpenGL
 - Unreal Engine Multiplayer Engineering
 - Machine Learning & Deep Learning
+### 🏫 | School Plans
+August 23rd, I will be going to secondary school to get my **Student Diploma**, after that; I'm headed to *University Reykjavik*, where I'll get my **BSc Degree** In computer scince, then advance to getting my **MSc Degree** In computer science, and then finally I will get my **Ph.D Degree** In computer science.
+## ✋ | How to reach me?
+You can contact me via mail at *roberthelgi@icloud.com*, I will try to respond to your messages as soon as possible.
+You can also add me on Discord, as I'm very active on there. ZOOP#1015
+## 🙉 | Pronouns
+He/Him.
 <!--
 **ZOOP1015/zoop1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
