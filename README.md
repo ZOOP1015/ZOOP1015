@@ -1,5 +1,8 @@
 # 🌟 | About Me
 I'm a 17 year old self-taught engineer living In Iceland, I was born on 8th of January, 2005.
+---
+[![Robert Zak's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertzakk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertzakk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## ✨ | Skills
 | Type | Proficiency Level |
 |------| -----------------:|
