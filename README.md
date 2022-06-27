@@ -1,8 +1,8 @@
 # 🌟 | About Me
 I'm a 17 year old self-taught engineer living In Iceland, I was born on 8th of January, 2005.
 ---
-[![Robert Zak's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertzakk)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertzakk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Robert Zak's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertzakk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertzakk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## ✨ | Skills
 | Type | Proficiency Level |
 |------| -----------------:|
@@ -12,7 +12,7 @@ I'm a 17 year old self-taught engineer living In Iceland, I was born on 8th of J
 | Photoshop | 8.5 |
 | Adobe After Effects | 7.5 |
 | Blender 3D | 7 |
-| Mathematics | 6 |
+| Mathematics | 6 | 
 | Unreal Engine | 5 |
 ## 📜 | What I'm Currently Studying/Learning?
 - C++
